@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/* Horizontal separator for the admin main menu */
+.menu-top-separator {
+border-top: 1px solid #444 !important;
+padding-top: 4px !important;
+margin-top: 5px !important;
+}
+
+.form-table td {
+    line-height: 24px;
+}
+.inner-form-table {
+    border-left: 3px #dfdfdf solid;
+    padding: 5px 20px;
+}
+.inner-form-table th,
+.inner-form-table td {
+    padding: 5px 10px 5px 0;
+}
